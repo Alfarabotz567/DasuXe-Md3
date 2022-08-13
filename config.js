@@ -7,7 +7,7 @@ const chalk = require("chalk")
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
-global.autoReadAll = false // auto reading in all pchat gc and status (true to on, false to off)
+global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
@@ -20,26 +20,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6283824417034'] //masukin no owner nya
-global.ownername = "DaisuXe-Md"
-global.ytname = "YT: DHAFF OFFICIAL" //ur yt chanel name
-global.socialm = "GitHub: Dhaffnavyz" //ur github or insta name
-global.location = "Indonesia, Jawabarat, Rancaekek" //ur location
+global.owner = ['6285624823115'] //masukin no owner nya
+global.ownername = "Alfarabotz-MD"
+global.ytname = "YT: HimHia Channel" //ur yt chanel name
+global.socialm = "GitHub: Alfarabotz567" //ur github or insta name
+global.location = "Indonesia, Jawabarat, Tasikmalaya" //ur location
 
 //bot bombdy
-global.botname = "DaisuXe-Md" //ur bot name
+global.botname = "Alfarabotz-MD" //ur bot name
 global.websitex = "https://bit.ly/Dhaffwebsite_my-id" //ur website
-global.vidmenu = { url: 'https://k.top4top.io/m_2368l5agg1.mp4' } //gif and video menu
-global.packname = "DasuXe Bot Stickers\n\n\n\n\n\n\n🕊️🕊️ "
-global.author = "DHAFF OFFICIAL" 
+global.vidmenu = { url: 'https://a.uguu.se/cGTmXoBd.mp4'' } //gif and video menu
+global.packname = "Alfarabotz Stickers\n\n\n\n\n\n\n🕊️🕊️ "
+global.author = "Irfaan Official" 
 global.themeemoji = "🕊️"
 global.reactmoji = "🐣"
-global.ownertag = ['6283824417034','6285797226828'] //ur owner tag
-global.ownernummenu = ['6285797226828','6283824417034'] //ur owner number in menu and all
-global.watermark = "DaisuXe-MDv3." //ur watermark
+global.ownertag = ['6289531704997','6285624823115'] //ur owner tag
+global.ownernummenu = ['6289531704997','6285624823115'] //ur owner number in menu and all
+global.watermark = "Alfarabotz-MD." //ur watermark
 global.botscript = "https://github.com/Dhaffnavyz/BaseBotMd-Origin"
-global.linkz1 = "https://chat.whatsapp.com/GToAFWm7W6g9noPQi08Qba"
-global.linkz2 = "https://chat.whatsapp.com/KCMvdghiofF0R1HlgoGAew"
+global.linkz1 = "https://chat.whatsapp.com/CMJv1GXTUht1A1be7ocTY2"
+global.linkz2 = "https://chat.whatsapp.com/JoOb7t2PVMv08w4dlfwJBH"
 
 //Bot theme media
 global.thum = fs.readFileSync("./Galery/theme/DNP77picture.jpg") //ur thumb pic
@@ -74,23 +74,23 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓',
-    admin: 'This feature is only for admins!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This feature is only for owner',
-    group: 'This feature is only for groups!',
-    private: 'This feature is only for private chats!',
-    bot: 'This feature is only for bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    error: 'Error!',
+    admin: 'Fitur ini hanya untuk admin!',
+    botAdmin: 'Bot Harus Admin Dulu!',
+    owner: 'Fitur ini hanya untuk Owner',
+    group: 'Fitur ini hanya untuk grup!',
+    private: 'Fitur ini hanya untuk obrolan pribadi!',
+    bot: 'Fitur ini hanya untuk bot',
+    wait: 'Dalam proses...',
+    linkm: 'Dimana linknya?',
+    error: 'Kesalahan!',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    nsfw: 'Fitur nsfw belum diaktifkan, silahkan hubungi admin untuk mengaktifkan',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
-    monayawal: 1000
+    free: 100,
+    monayawal: 10000
 }
    global.rpg = {
    darahawal: 100,
